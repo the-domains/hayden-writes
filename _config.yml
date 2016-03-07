@@ -1,6 +1,6 @@
 name: Hayden Writes
 favicon: null
-layout_spectrum: 0.75929
+layout_spectrum: 0.24619
 typography_spectrum: 0.5962
 title: Hayden Writes
 cta:
@@ -22,8 +22,8 @@ color:
     - '#b3aeb4'
     - '#006184'
     - '#fff7ec'
-  brandStrength: 0.5
-  lightness: 0.5625
+  brandStrength: 0.75
+  lightness: 1
   saturation: 1
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 purpose: []
