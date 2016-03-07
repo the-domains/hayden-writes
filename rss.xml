@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hayden Writes]]></title>
+        <description><![CDATA[Hayden Writes]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 01:16:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Hindrance of Continuity]]></title>
+            <description><![CDATA[<article><h1>The Hindrance of Continuity</h1><p>Reading this quote, it seems somewhat alien. Why would we not want to ask God for guidance in all that we do? But when you think about it, this is a very real issue taht we don't even realize we have. Asking for spiritual guidance at certain times from God is in no way a sin and is never discouraged. But pleading for it constantly in everyday life could very well be a large hinderance in our walk with Him.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f0ad2d2c63395670b9a16eaae93a0001e267acb0.jpg"></article>]]></description>
+            <link>undefinedthe-hindrance-of-continuity/index.html</link>
+            <guid isPermaLink="false">1d8b86e3-1021-4ba2-a973-64a87b2d50cb</guid>
+            <pubDate>Mon, 07 Mar 2016 01:16:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
