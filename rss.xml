@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Hayden Writes]]></title>
         <description><![CDATA[Hayden Writes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/haydenwrites/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 00:38:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 01:12:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/haydenwrites/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The Hindrance of Continuity ]]></title>
-            <description><![CDATA[<article><h1>The Hindrance of Continuity </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92a045dfc2a1a890ba3434ecabfea5ec8ef7beca.png"></article>]]></description>
+            <title><![CDATA[The Hindrance of Continuity]]></title>
+            <description><![CDATA[<article><h1>The Hindrance of Continuity</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/214a129f0395c8d786da129817fde14d4c1c2c68.jpg"></article>]]></description>
             <link>urn:uuid:a1d22d1e-8fee-465d-9b62-bc3e68cddd91</link>
             <guid isPermaLink="false">a58da5a6-b88a-495b-9524-7930cd56ec07</guid>
-            <pubDate>Mon, 07 Mar 2016 00:38:36 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 01:11:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
