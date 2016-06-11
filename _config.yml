@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 1
+  saturation: 0.437276
   brandStrength: 0.8125
-  rhythmicContrast: 0
+  lightness: 1
   brandColors:
     - '#041d22'
     - '#8f8583'
     - '#b3aeb4'
     - '#006184'
     - '#fff7ec'
-  lightness: 1
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Hayden Writes
 favicon: null
+name: Hayden Writes
 opengraph:
   image: null
   type: null
